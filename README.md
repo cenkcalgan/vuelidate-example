@@ -1,5 +1,7 @@
 # vuelidate-example
 
+An example for vuelidate containing the required, numeric, minLength, maxLength, \$each, unique properties.
+
 ## Project setup
 
 ```
